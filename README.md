@@ -12,7 +12,7 @@ The course comprises 8 self-contained modules. Each module consists of a 3-hour 
 - Session 2: Data Wrangling in R
 - Session 3: Introduction to Machine Learning with Python
 - Session 4: Introduction to Deep Learning
-- Session 5: Intro to Optimization with Excel and Julia
+- Session 5: Intro to Linear Optimization with Excel and Julia
 - Session 6: Advanced Optimization: Part 1
 - Session 7: Advanced Optimization: Part 2
 - Session 8: Distributed Computing and Tips & Tricks
