@@ -8,7 +8,7 @@ The course comprises 8 self-contained modules. Each module consists of a 3-hour 
 
 **The 8 modules**:
 
-- Session 1: Terminal, Git, and Project Management
+- Session 1: Terminal, Github, and Best Practices
 - Session 2: Data Wrangling in R
 - Session 3: Introduction to Machine Learning with Python
 - Session 4: Introduction to Deep Learning
