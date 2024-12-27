@@ -14,7 +14,8 @@
    * Open `Julia` REPL. Press `]` to enter package installation mode and input the following: 
      `add MosekTools, Mosek, Convex, JuMP, Ipopt, Images, DelimitedFiles, Gadfly, CSV`
    
-     which besides `Mosek` installs some other packages that we will use. This includes the nonlinear solver `Ipopt`
+     which besides `Mosek` installs some other packages that we will use. This includes installation of the nonlinear solver `Ipopt`.
      
+3.  To confirm proper installation and licensing of all packages, run the preassignment notebook.  If everything is working properly, all cells should run without generating any output.
 
-If you have any issue during the installation phase, please contact `brunm@mit.edu`. **Please note that although it is a pre-assignment, you do not need to submit anything on Canvas and it is not going to be graded either.**
+If you have any issue during the installation phase, please contact `brunm@mit.edu`. **Please note that although it is a pre-assignment, you do not need to submit anything on Canvas and completion will not be graded.**
