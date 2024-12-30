@@ -80,7 +80,6 @@ which should produce a cloud of points centered around the origin.
 - [Principles](http://vita.had.co.nz/papers/tidy-data.pdf) and [practice](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html) of tidy data using `tidyr`
 - Cheatsheets for [`dplyr`](https://rstudio.github.io/cheatsheets/html/data-transformation.html?_gl=1*9y5sms*_ga*NDIwMDI3MjY5LjE3MzU1NjcxNjQ.*_ga_2C0WZ1JHG0*MTczNTU3MDQxNC4yLjEuMTczNTU3MDkzMC4wLjAuMA..), [`tidyr`](https://rstudio.github.io/cheatsheets/html/tidyr.html?_gl=1*9y5sms*_ga*NDIwMDI3MjY5LjE3MzU1NjcxNjQ.*_ga_2C0WZ1JHG0*MTczNTU3MDQxNC4yLjEuMTczNTU3MDkzMC4wLjAuMA..) and [`ggplot2`](https://rstudio.github.io/cheatsheets/html/data-visualization.html?_gl=1*1iebalv*_ga*NDIwMDI3MjY5LjE3MzU1NjcxNjQ.*_ga_2C0WZ1JHG0*MTczNTU3MDQxNC4yLjEuMTczNTU3MDkzMC4wLjAuMA..).
 - Any of the RStudio cheatsheets found [here](https://www.rstudio.com/resources/cheatsheets/), for that matter
-- [Comparative discussion](http://stackoverflow.com/questions/21435339/data-table-vs-dplyr-can-one-do-something-well-the-other-cant-or-does-poorly) of `dplyr` and `data.table`, an alternative package with higher performance but more challenging syntax.  
 - There are some additional packages that we will not cover in this class but are nonetheless very useful! A few examples: [cowplot](https://wilkelab.org/cowplot/index.html) for combining multiple plots, [janitor](https://github.com/sfirke/janitor) for quick column name cleanup and a nicer table command, and [gt](https://gt.rstudio.com/) for creating publication-quality tables.
 
 ## Questions?
