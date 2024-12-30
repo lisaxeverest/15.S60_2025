@@ -69,7 +69,7 @@ tibble(x=rnorm(1000), y=rnorm(1000)) %>% ggplot(aes(x,y)) + geom_point()
 ```
 which should produce a cloud of points centered around the origin.
 
-**Please submit screenshots of these three outputs to the Pre-Assignment 5 Page on the course Canvas page.**
+**Please submit screenshots of these three outputs to the Pre-Assignment 2 Page on the course Canvas page.**
 
 
 ## Additional Resources
