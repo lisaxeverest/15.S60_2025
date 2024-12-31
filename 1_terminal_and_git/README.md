@@ -20,7 +20,7 @@ Open terminal (macOS/Linux) or Git Bash (Windows). Navigate to the folder you wa
 
 "Clone" the Github for this class by entering the following command (we will talk about this more in the session):
 
-`git clone https://github.com/angkoulouras/15.S60_2024.git`
+`git clone https://github.com/lisaxeverest/15.S60_2025.git`
 
 This will create a copy of the Github course materials in the folder to which you cloned (the folder will be your home directory if you simply typed the clone command above). If you'd like to see the result, you can navgiate to that folder and see that you now have a new folder called "15.S60_2024". 
 
