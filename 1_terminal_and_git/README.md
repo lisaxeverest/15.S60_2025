@@ -28,7 +28,7 @@ This will create a copy of the Github course materials in the folder to which yo
 
 To use terminal and git to push changes to Github, you need to tell git/terminal who you are and authenticate your Github credentials. We do that through an SSH (secure shell) key. Follow instructions [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) to generate an SSH key and add the key to your Github account.
 
-**Take a screenshot of your terminal/Git Bash output after successfully cloning an connecting Git and Github
+**Take a screenshot of your terminal/Git Bash output after successfully cloning and connecting Git and Github
 
 ## Task 4: Make an Overleaf account
 We will be using Overleaf to cover the basics of LaTeX. Go to [www.overleaf.com](www.overleaf.com) and make a free account.
