@@ -16,5 +16,5 @@ Please take screenshots after the execution of all commands. Please make sure al
 
 Thank you very much and see you in class!
 
-Questions?
+## Questions?
 Email Joyce at [joyceluo@mit.edu](mailto:joyceluo@mit.edu).
