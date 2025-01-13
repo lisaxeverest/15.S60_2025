@@ -14,6 +14,8 @@ Please go to [this link](https://colab.research.google.com/drive/1rCwyWnMYuy8gZW
 
 Then check you can execute cells as instructed, and upload a screenshot to Canvas of the requested cells.
 
+As an additional request, we will expect you to know the basics of neural nets and how they work (e.g. backpropagation etc.). Check out https://www.3blue1brown.com/topics/neural-networks for beautifully animated videos on this by Grant Sanderson &Co. (his voice is beautiful too). We recommend videos 1-5 in the list, but obviously for your own interest.
+
 See you on Thursday!
 
 ### Questions?
