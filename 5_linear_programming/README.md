@@ -109,8 +109,9 @@ python> !pip install ortools==9.7.2996
 ```
 
 ## Preassignment
-1. Excel: Show a screenshot of the Solver Parameter window
-To ensure your installation environment works, please do the following. In a terminal, open Julia. Then run the following commands.
+1. Excel: Click on Solver. On Canvas, submit a screenshot of the Solver Parameters popup window.
+
+2. Julia: To ensure your installation environment works, please do the following: In a terminal, open Julia. Then run the following commands.
 ```
 julia> using IJulia
 julia> notebook()
