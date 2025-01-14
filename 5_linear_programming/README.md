@@ -1,4 +1,4 @@
-# Session 6: Introduction to Linear Optimization (Excel, Julia, Python)
+# Session 5: Introduction to Linear Optimization (Excel, Julia, Python)
 
 In this session, we introduce some of the most commonly used software tools used to solve linear optimization problems: Excel (Solver), Julia (JuMP), and Python (CVXPy). Additionally, to motivate each of these tools, we'll also cover:
 1. Advanced Excel tools: Pivot Tables, Goal Seek.
