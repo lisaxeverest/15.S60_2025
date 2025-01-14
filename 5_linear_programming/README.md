@@ -76,6 +76,7 @@ Gurobi is a commercial solver with free academic licenses. They are a pain in th
 grbgetkey xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 ```
 Copy the command (not this one--the one at the bottom of your page with your actual license key!) and paste it into a terminal (not a Julia REPL). Follow the default installation instructions as prompted. Now your computer is allowed to use Gurobi.
+
 5.  Install the Gurobi wrapper in Julia. Before adding Gurobi to our Julia environment, we must point the wrapper to the location of the Gurobi Optimizer's installation. Open a Julia REPL and type the following. If you are on a Mac:
 ```
 julia> ENV["GUROBI_HOME"] = "/Library/gurobi1100/macos_universal2/"
