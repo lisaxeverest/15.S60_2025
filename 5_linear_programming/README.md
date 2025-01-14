@@ -1,13 +1,13 @@
 # Session 5: Introduction to Linear Optimization (Excel, Julia, Python)
 
-In this session, we introduce some of the most commonly used software tools used to solve linear optimization problems: Excel (Solver), Julia (JuMP), and Python (CVXPy). Additionally, to motivate each of these tools, we'll also cover:
+In this session, we introduce some of the most commonly used software tools for solving linear optimization problems: Excel (Solver), Julia (JuMP), and Python (CVXPy). Additionally, to motivate each of these tools, we'll also cover:
 1. Advanced Excel tools: Pivot Tables, Goal Seek.
 2. Introduction to the Julia programming language.
 3. Solving LPs using the Primal-Dual Hybrid Gradient algorithm in Python's CVXPy.
 
 
 ## Task 1: Enable Excel Solver
-Excel's Solver is a built-in add-on tool that can solve linear, nonlinear, and integer optimization problems.
+Excel's Solver is a built-in add-on tool that can solve small (up to 200 variables) linear, nonlinear, and integer optimization problems.
 
 To enable it for **Windows**:
 1. File -> Options -> Add-Ins 
