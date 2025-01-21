@@ -4,7 +4,7 @@
 
 Due: January 28, 2025, 11.59p.m. 
 
-Please submit a Jupyter notebook with file name `[Name]_15.S60_HW5.ipynb`. If you want, you can use the provided template file to get you started.
+Please submit a Jupyter notebook with file name `[Name]_15.S60_HW5.ipynb` or an Excel file. If you want, you can use the provided template file to get you started.
 
 (This homework was adapted from the 2022 offering of this class.)
 
