@@ -10,18 +10,20 @@ All of these options will work for our class!
 ## Select one of the following option to use in class and complete the pre-assignment:
 
 ### Option 1: Engaging Open On Demand 
-Login to [https://engaging-ood.mit.edu](https://engaging-ood.mit.edu). Click Clusters, then Engaging Shell Access. This should open a browser window with a terminal that says either `[yourusername@eofe7 ~]$` or `[yourusername@eofe8 ~]$`. This is one of the login nodes of the Engaging cluster. You're in! 
+Login to [https://engaging-ood.mit.edu](https://engaging-ood.mit.edu). Click Clusters, then Engaging Shell Access. 
+This should open a browser window with a terminal that says you are connected as `[yourusername@somenode ~]$`. You're in!
 
 ***From what some of you have noticed, while you should be able to login immediately, it may take a few hours for you to be able to run the commands below. If you get an error saying `run: error: Unable to allocate resources: Invalid account or account/partition combination specified`, try back later and see if it works. If not, shoot me an email and we can work on it!
 
 Once you've logged into Engaging, run the following commands *in this order* in the terminal (don't worry if you don't understand what we're doing here - we'll discuss during the session):
 
-1. ```srun --pty --partition=sched_any_quicktest --cpus-per-task=1 --mem=2G bash```  (Note: this may take a few minutes depending on how busy the cluster is)
-2. 2. Once you have been allocated resources, your terminal will display `[username@node029 ~]$` or some other node number. We can now load some software modules.
-3. ```module load julia/1.7.3```
-4. ```module load gurobi/8.1.1```
-5. ```julia``` (At this point, a Julia session will open)
-6. Enter the following commands to Julia to load the packages we need, then exit the Julia window (this may take a while): 
+1. ```ssh eofe7.mit.edu``` (Note: You only need to run this command if you are connected from the browser terminal in https://engaging-ood.mit.edu and your terminal shows you are connected as `[yourusername@orcd-login003]` instead of `[yourusername@eofe7 ~]$`).
+2. ```srun --pty --partition=sched_any_quicktest --cpus-per-task=1 --mem=2G bash```  (Note: this may take a few minutes depending on how busy the cluster is)
+3. 2. Once you have been allocated resources, your terminal will display `[username@node029 ~]$` or some other node number. We can now load some software modules.
+4. ```module load julia/1.7.3```
+5. ```module load gurobi/8.1.1```
+6. ```julia``` (At this point, a Julia session will open)
+7. Enter the following commands to Julia to load the packages we need, then exit the Julia window (this may take a while): 
 
 ```julia
 julia> using Pkg
